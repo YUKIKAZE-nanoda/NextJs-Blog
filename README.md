@@ -1,5 +1,10 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+#使用NextJs，NextAuth,swr,
+#后端：Prisma和Mongodb
+
+#npx prisma studio运行后端管理界面在5555
+
 ## Getting Started
 
 First, run the development server:
